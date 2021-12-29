@@ -11,12 +11,16 @@ Discussed some major columns on which placement depends.
 Handling outliers of diagnosis columns. As, it is very important because at last we're predicting placenment of a student.
 Then I used different Regression models present in sklearn to train the model.
 Use Correlation coefficients to measure how strong a relationship is between two variables.
+
 MODELS USED
 
 Logistic Regression
 Decission Tree Classifier
 K Nearest Neighbour Classifier
 Random Forest Classifier
+
+And which model is well suited according to accuracy.
+
 LIBRARIES NEEDED
 
 numpy
