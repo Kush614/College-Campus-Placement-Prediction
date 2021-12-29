@@ -3,7 +3,7 @@ GOAL
 
 The goal is to predict if a student is placed or not according to his/her percentage and other factors.
 
-Dataset can be downloaded from here
+Dataset can be downloaded from https://www.kaggle.com/benroshan/factors-affecting-campus-placement
 
 WHAT I HAD DONE
 
