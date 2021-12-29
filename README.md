@@ -46,4 +46,5 @@ As accuracy of Logistic Regression algorithm is more ie. 95.34%
 
 Hence this model is selected.
 
-acc
+![image](https://user-images.githubusercontent.com/67098940/147666217-87852993-a944-4b5c-beed-cf4a785c0c10.png)
+
